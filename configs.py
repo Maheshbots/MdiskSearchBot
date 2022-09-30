@@ -15,18 +15,18 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/Ms_458'>Mdisk Search Robot</a>
 
-📝 Language : <a href='https://www.python.org'> Python V3</a>
+📝 Language : <a href='https://t.me/Ms_458'> Python V3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+📚 Library: <a href='https://t.me/Ms_458'> Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Server: <a href='https://t.me/Ms_458'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/cyniteofficial'>Cynite</a></b>
+👨‍💻 Created By: <a href='https://t.me/Ms_458'>Cynite</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/cyniteofficial'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Ms_458'>Click Me</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -38,7 +38,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Made With ❤ By @Ms_458</a></b>
 """
 
 
@@ -49,7 +49,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Made With ❤ By @Ms_458</a></b>
 """
 
 
